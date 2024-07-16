@@ -10,8 +10,5 @@
   "type": "module",
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "execa": "^9.3.0"
-  }
+  "license": "ISC"
 }

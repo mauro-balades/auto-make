@@ -1,0 +1,9 @@
+
+
+AM_DIST_PATH=$1
+AM_INPUT_PATH=$2
+AM_OUTPUT_PATH=$3
+
+. $AM_DIST_PATH/builtin.sh
+
+. $AM_INPUT_PATH
